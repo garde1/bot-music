@@ -1,10 +1,10 @@
 
 {
   "TOKEN": "OTMwMDgwODk4MzQxMjczNjQw.YdwrVg.-jfor1r0kKWX2_7K1AODfb7ZJmU ",
-  "YOUTUBE_API_KEY": "",
+  "YOUTUBE_API_KEY": "ALzaSyDvq60",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
+  "PREFIX": "+",
   "PRUNING": false,
   "LOCALE": "en",
   "STAY_TIME": 30,
